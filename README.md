@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shinw1
+- 👀 I’m interested in Movies and Mangas
+- 🌱 I’m currently learning C
